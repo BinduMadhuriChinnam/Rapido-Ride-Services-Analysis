@@ -1,6 +1,8 @@
 # Rapido-Ride-Services-Analysis
 
 
+
+
 **📊 Project Overview**
 
 This project presents a detailed Power BI dashboard analyzing 50,000+ Rapido ride records in Bangalore over a two-month period. The dataset covers multiple ride types, durations, distances, fares, and payment methods. The goal is to uncover trends in urban mobility, payment behavior, and ride performance.
@@ -17,7 +19,7 @@ This project presents a detailed Power BI dashboard analyzing 50,000+ Rapido rid
 **🧾 Dataset Details**
 
 https://www.kaggle.com/datasets/vishaldeoprasad/bangalore-rapido-ride-services-dataset
-Size: 50,000 rows, 13 columns
+
 
 **Features:**
 
