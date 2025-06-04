@@ -2,12 +2,16 @@
 
 
 **📊 Project Overview**
+
 This project presents a detailed Power BI dashboard analyzing 50,000+ Rapido ride records in Bangalore over a two-month period. The dataset covers multiple ride types, durations, distances, fares, and payment methods. The goal is to uncover trends in urban mobility, payment behavior, and ride performance.
 
-**📊Dashboard Preview""
+
+**📊Dashboard Preview**
+
 
 
 ![Dashboard Preview](Rapido-dashboard-preview.png)
+
 
 
 **🧾 Dataset Details**
