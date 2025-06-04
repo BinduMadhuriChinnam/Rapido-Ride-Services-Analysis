@@ -6,7 +6,7 @@ This project presents a detailed Power BI dashboard analyzing 50,000+ Rapido rid
 
 **📊Dashboard Preview
 
-![Dashboard Preview]("Rapido-dashboard-preview.png")
+![Dashboard Preview](Rapido-dashboard-preview.png)
 
 **🧾 Dataset Details**
 
